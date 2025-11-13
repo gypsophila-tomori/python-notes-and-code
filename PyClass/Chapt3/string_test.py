@@ -1,5 +1,4 @@
 add="pine"+"apple"
-print(add)
-
 plus=3*"pine"
-print(plus)
+print("1 + 1 = 2 "+chr(10004))
+print("\"b\"的Unicode编码是：",str(ord("b")))
